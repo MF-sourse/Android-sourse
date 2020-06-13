@@ -1,0 +1,2 @@
+rootProject.name='ContactsTelephoneDirectory'
+include ':app'
